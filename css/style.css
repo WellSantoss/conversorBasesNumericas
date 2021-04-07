@@ -1,0 +1,46 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body,
+input,
+button {
+   font-family: "Roboto", sans-serif;
+}
+
+.flex {
+   height: 100vh;
+   padding-bottom: 73px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+h1 {
+   font-size: 36px;
+   font-weight: 500;
+   margin-bottom: 20px;
+}
+
+input {
+   display: block;
+   font-size: 22px;
+   padding: 5px 10px;
+   width: 100%;
+   border: 1px solid black;
+   border-radius: 5px;
+   margin-bottom: 15px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+   -webkit-appearance: none;
+   margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+   -moz-appearance: textfield;
+}
