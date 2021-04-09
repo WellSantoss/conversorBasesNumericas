@@ -6,7 +6,7 @@ Converte binário, octal, decimal e hexadecimal a cada digito inserido.
 ---
 
 ## Resultado
-[![Image from Gyazo](https://i.gyazo.com/6c023a3d39c8ed880b5e75c43f342615.png)](https://gyazo.com/6c023a3d39c8ed880b5e75c43f342615)
+[![Image from Gyazo](https://i.gyazo.com/494b86283570e676b3cac97bff244986.png)](https://gyazo.com/494b86283570e676b3cac97bff244986)
 
 Resultado final: https://wellsantoss.github.io/conversorBasesNumericas/
 
